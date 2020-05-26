@@ -179,7 +179,7 @@ class Navbar extends React.Component{
     render(){
         return(
             <header className="App-header">
-                <div id="navbarContent"><h1>IQD Bingolingo</h1></div>
+                <div id="navbarContent"><h1>iqd Bingolingo</h1></div>
                 <div id="hamburgerMenu" onClick={this.props.toggleHamburger}>
                     <div></div>
                     <div></div>
